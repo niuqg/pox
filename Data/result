@@ -1,0 +1,71 @@
+The size of table is :3875
+The number of packets is:7750
+go!!
+=>Time of Entry_for_packet: 550.859999895 s
+end.
+*************************************
+The size of table is :3875
+The number of packets is:7750
+go!!
+2014-09-22 15:19:11
+=>Time of Entry_for_packet: 520.000999928 s
+2014-09-22 15:27:51
+end.
+**************************************
+2014-09-22 16:16:01
+go!!
+=>Time of Entry_for_packet: 590.947000027 s
+The size of table is :3875
+The number of packets is:7750 
+The speed is:13 packet/s
+end.
+2014-09-22 16:25:52
+**************************************
+2014-09-22 16:26:49
+go!!
+=>Time of Entry_for_packet: 581.082999945 s
+The size of table is :3875
+The number of packets is:7750 
+The speed is:13 packet/s
+2014-09-22 16:36:30
+end.
+**************************************
+2014-09-22 16:42:16
+go!!
+=>Time of Entry_for_packet: 513.865999937 s
+The size of table is :3875
+The number of packets is:7750 
+The speed is:15 packet/s
+2014-09-22 16:50:50
+end.
+**************************************
+2014-09-22 17:15:05
+go!!
+=>Time of Entry_for_packet: 480.335999966 s
+The size of table is :3875
+The number of packets is:7750 
+The speed is:16 packet/s
+The averate speed is:14
+2014-09-22 17:23:05
+end.
+**************************************
+2014-09-22 17:26:53
+go!!
+=>Time of Entry_for_packet: 470.762000084 s
+The size of table is :3875
+The number of packets is:7750 
+The speed is:16 packet/s
+The averate speed is:14 packet/s
+2014-09-22 17:34:44
+end.
+**************************************
+2014-09-22 18:21:19
+go!!
+=>Time of Entry_for_packet: 482.309999943 s
+The size of table is :3875
+The number of packets is:7750 
+The speed is:16 packet/s
+The averate speed is:14 packet/s
+2014-09-22 18:29:21
+end.
+**************************************
