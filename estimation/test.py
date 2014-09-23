@@ -48,7 +48,7 @@ def average ():
             tem=line.split('.')
             p=p+int(filter(str.isdigit,tem[0]))
     return p/t
-            
+
 def testC():
     ISOTIMEFORMAT='%Y-%m-%d %X'
     table=testData.GenerateACL()
